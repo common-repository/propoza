@@ -1,0 +1,135 @@
+# Copyright (C) 2016 WooCommerce Propoza
+# This file is distributed under the same license as the WooCommerce Propoza package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Propoza 1.0.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/propoza\n"
+"POT-Creation-Date: 2016-09-14 07:38:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-propoza-admin.php:81
+msgid "View Propoza Settings"
+msgstr ""
+
+#: admin/class-propoza-admin.php:83
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:76
+msgid "Quotes"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WooCommerce Propoza 1.0.13)  #-#-#-#-#
+#. Author of the plugin/theme
+#: admin/includes/class-wc-propoza-integration.php:172
+msgid "Propoza"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:178
+msgid "Setup"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:180
+msgid ""
+"Get started with a free account<br><br>Sign up in 30 seconds. No credit card "
+"required.<br>Already have a Propoza account? Log in here<br>"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:184
+msgid "Create My Account"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:189
+msgid "General"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:193
+msgid "Enable Propoza"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:198
+msgid "Sub-domain"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:200
+msgid ""
+"Please enter the sub-domain that you have registered with your Propoza "
+"account."
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:202
+msgid "yourdomain"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:207
+msgid "API key"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:209
+msgid ""
+"The API key will be send to you in our email after you have setup your "
+"Propoza account"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:214
+msgid "Test connection"
+msgstr ""
+
+#: admin/includes/class-wc-propoza-integration.php:220
+msgid "Launch Propoza"
+msgstr ""
+
+#: admin/views/invalid_api_key_message.php:20
+msgid ""
+"Your Propoza API key is outdated. For security reasons please generate a new "
+"API key and save it to your dashboard and module."
+msgstr ""
+
+#: admin/views/invalid_api_key_message.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-propoza-quote.php:232
+msgctxt "post"
+msgid "Quote"
+msgstr ""
+
+#: includes/class-propoza-quote.php:237
+msgid "Quote <span class=\"count\">(%s)</span>"
+msgid_plural "Quote <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/includes/class-propoza-checkout.php:150
+msgid ""
+"<b>Please note:</b> <i>Changing the cart contents will invalidate the "
+"proposal price.</i>"
+msgstr ""
+
+#: public/includes/class-propoza-checkout.php:156
+#: public/includes/class-propoza-checkout.php:219
+msgid "You are not authorized to access this function"
+msgstr ""
+
+#: public/includes/class-propoza-checkout.php:211
+msgid "Coupon could not be created/updated"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Propoza"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://propoza.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Propoza adds quotation functionality to your webshop, generating more leads "
+"& more orders!"
+msgstr ""

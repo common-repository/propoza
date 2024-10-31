@@ -1,0 +1,57 @@
+/* Woocommerce */
+h3.propoza-header {
+    background: url('../../../assets/full-logo.png') no-repeat scroll 0 0 transparent;
+    background-size: 100%;
+    background-position: center;
+    height: 65px;
+    overflow: hidden;
+    padding: 0;
+    text-indent: -9999px;
+    width: 200px;
+    margin-bottom: 0;
+}
+
+textarea#propoza_api_key {
+    width: 300px;
+    height: 180px;
+}
+
+#loader-container {
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(0, 0, 0); /* Black fallback color */
+    background-color: rgba(0, 0, 0, 0.2); /* Black w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+.loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 50;
+    width: 150px;
+    height: 150px;
+    margin: -75px 0 0 -75px;
+    border: 16px solid rgba(0, 0, 0, 0.0);
+    border-radius: 50%;
+    border-top: 16px solid #0085ba;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
